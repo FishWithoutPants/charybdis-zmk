@@ -60,6 +60,8 @@
         irq-gpios = <&gpio0 6 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
         scroll-layers = <6>;
         snipe-layers = <7>;
+
+	sensitivity = "4x";
     };
 };
 
