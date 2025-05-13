@@ -68,9 +68,6 @@
     compatible = "zmk,input-listener";
     device = <&trackball>;
 
-    scale-x = <8>;
-    scale-y = <8>;
-
 
   };
 };
