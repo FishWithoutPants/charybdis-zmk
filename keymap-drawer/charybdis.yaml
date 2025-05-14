@@ -35,7 +35,7 @@ layers:
   - $$mdi:keyboard-space$$
   - Nav
   - Sym
-  - $$mdi:apple-keyboard-shift$$
+  - Alt/Cmd
   Gaming:
   - $$mdi:keyboard-tab$$
   - Q
@@ -248,10 +248,10 @@ layers:
   - Sft+AltGr+.
   - Sft+AltGr+/
   - {t: ▽, type: trans}
-  - {type: held}
-  - {type: held}
-  - LWIN
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LWIN
+  - {type: held}
   Num:
   - KP 1
   - KP 2
