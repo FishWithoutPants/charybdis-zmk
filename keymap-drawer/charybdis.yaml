@@ -227,21 +227,21 @@ layers:
   - AltGr+I
   - AltGr+O
   - AltGr+P
-  - {t: '$$mdi:bluetooth-connect$$', h: '0'}
-  - {t: '$$mdi:bluetooth-connect$$', h: '1'}
-  - {t: '$$mdi:bluetooth-connect$$', h: '2'}
-  - {t: '$$mdi:bluetooth-connect$$', h: '3'}
-  - {t: '$$mdi:bluetooth-connect$$', h: '4'}
+  - Meh+A
+  - Meh+S
+  - Meh+D
+  - Meh+F
+  - Meh+G
   - Meh+H
   - {t: '$$mdi:apple-keyboard-shift$$', h: sticky}
   - AltGr+K
   - AltGr+.
   - AltGr+/
-  - Meh+Z
-  - Meh+X
-  - Meh+C
-  - Meh+V
-  - Meh+B
+  - {t: '$$mdi:bluetooth-connect$$', h: '0'}
+  - {t: '$$mdi:bluetooth-connect$$', h: '1'}
+  - {t: '$$mdi:bluetooth-connect$$', h: '2'}
+  - {t: '$$mdi:bluetooth-connect$$', h: '3'}
+  - {t: '$$mdi:bluetooth-connect$$', h: '4'}
   - Meh+N
   - AltGr+M
   - AltGr+,
