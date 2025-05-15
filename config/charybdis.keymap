@@ -167,9 +167,9 @@
 // ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮   ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮
 &kp LC(LS(LA(Q))) &kp LC(LS(LA(W))) &kp LC(LS(LA(E))) &kp BSPC &kp RA(T)     &kp LC(LS(LA(Y))) &kp C_VOL_DN &kp RA(I)    &kp RA(O)     &kp RA(P)
 // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-     &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &kp LC(LS(LA(H))) &sk LSHIFT    &kp RA(K)    &kp RA(DOT)    &kp RA(FSLH)
+&kp LC(LS(LA(A))) &kp LC(LS(LA(S))) &kp LC(LS(LA(D))) &kp LC(LS(LA(F))) &kp LC(LS(LA(G))) &kp LC(LS(LA(H))) &sk LSHIFT    &kp RA(K)    &kp RA(DOT)    &kp RA(FSLH)
 // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-&kp LC(LS(LA(Z))) &kp LC(LS(LA(X))) &kp LC(LS(LA(C))) &kp LC(LS(LA(V))) &kp LC(LS(LA(B))) &kp LC(LS(LA(N))) &kp RA(M) &kp RA(COMMA)  &kp LS(RA(DOT))   &kp LS(RA(FSLH))
+     &bt BT_SEL 0  &bt BT_SEL 1 &bt BT_SEL 2   &bt BT_SEL 3  &bt BT_SEL 4  &kp LC(LS(LA(N))) &kp RA(M) &kp RA(COMMA)  &kp LS(RA(DOT))   &kp LS(RA(FSLH))
 // ╰─────────────┴─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┴─────────────╯
                                     &trans        &trans        &trans          &kp LWIN        &trans
 //                             ╰─────────────┴─────────────┴─────────────╯   ╰─────────────┴─────────────╯
