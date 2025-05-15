@@ -219,11 +219,11 @@ layers:
   Alt/Cmd:
   - Meh+Q
   - Meh+W
-  - Meh+E
   - {t: '$$mdi:backspace$$', type: backspace}
+  - $$mdi:backspace-reverse-outline$$
   - AltGr+T
   - Meh+Y
-  - $$mdi:volume-low$$
+  - Meh+U
   - AltGr+I
   - AltGr+O
   - AltGr+P
